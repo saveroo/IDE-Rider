@@ -1,0 +1,9 @@
+<application>
+  <component name="DeepBugsJS">
+    <option name="userDisabledChecks">
+      <set>
+        <option value="ID:WordArray.ID:init(ID:splice,LIT:16)" />
+      </set>
+    </option>
+  </component>
+</application>
