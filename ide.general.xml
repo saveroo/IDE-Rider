@@ -27,5 +27,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="deployment.BouncyCastleJCE" value="false" />
+    <entry key="localHistory.daysToKeep" value="20" />
   </component>
 </application>
