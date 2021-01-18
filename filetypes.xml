@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dll" type="C#" />
+      <mapping ext="dat" type="JSON" />
       <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
