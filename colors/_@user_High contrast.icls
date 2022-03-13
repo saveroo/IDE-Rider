@@ -1,14 +1,19 @@
-<scheme name="_@user_High сontrast" version="142" parent_scheme="Darcula">
+<scheme name="_@user_High contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-06-24T01:38:45</property>
+    <property name="created">2022-03-13T14:32:23</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2020.1.3.0.0</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
     <property name="modified">2022-03-13T14:41:36</property>
-    <property name="originalScheme">High сontrast</property>
+    <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9924" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
+    <option name="ActionButton.iconTextForeground" value="ffffff" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="0" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="e0861f" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="ffffff" />
+    <option name="Bookmark.iconBackground" value="e0861f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
@@ -35,8 +40,11 @@
     <option name="GUTTER_BACKGROUND" value="131314" />
     <option name="INDENT_GUIDE" value="666666" />
     <option name="INFORMATION_HINT" value="450073" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cccccc8c" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cccccc8c" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
+    <option name="LOOKUP_COLOR" value="281a33" />
     <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
@@ -66,7 +74,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -464,6 +472,43 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GO_COMMENT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="7ec3e6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="edb98e" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="edb98e" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="3db8ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="a8cc5c" />
+      </value>
+    </option>
+    <option name="GO_SHADOWING_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="38d996" />
+      </value>
+    </option>
+    <option name="GO_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="73d0e6" />
+      </value>
+    </option>
     <option name="GRID_NULL_VALUE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -548,6 +593,17 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -626,6 +682,16 @@
       <value>
         <option name="FOREGROUND" value="806226" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="1aebff" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="999999" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
