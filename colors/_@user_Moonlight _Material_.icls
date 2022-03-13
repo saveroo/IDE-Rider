@@ -4,7 +4,7 @@
     <property name="created">2022-03-13T14:32:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-13T14:41:36</property>
+    <property name="modified">2022-03-13T14:52:41</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1222,22 +1222,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="323337" />
+        <option name="BACKGROUND" value="3b3d51" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="29333b" />
+        <option name="BACKGROUND" value="38424e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="322a44" />
+        <option name="BACKGROUND" value="3f424c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="253243" />
+        <option name="BACKGROUND" value="433f4b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="433a48" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="433646" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

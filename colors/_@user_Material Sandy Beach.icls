@@ -4,7 +4,7 @@
     <property name="created">2022-03-13T14:32:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-13T14:41:36</property>
+    <property name="modified">2022-03-13T14:52:41</property>
     <property name="originalScheme">Material Sandy Beach</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1173,22 +1173,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fff8e1" />
+        <option name="BACKGROUND" value="f4f0ec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f6f8e5" />
+        <option name="BACKGROUND" value="f0f5e9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="ffefee" />
+        <option name="BACKGROUND" value="f9f6e6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f3f7ed" />
+        <option name="BACKGROUND" value="fff2e4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="ffebe1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffe5de" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

@@ -4,7 +4,7 @@
     <property name="created">2020-06-24T01:38:45</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2022-03-13T14:41:36</property>
+    <property name="modified">2022-03-13T14:52:41</property>
     <property name="originalScheme">ReSharper Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -13,22 +13,32 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2e2e20" />
+        <option name="BACKGROUND" value="37383c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="252e25" />
+        <option name="BACKGROUND" value="353c3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2e252e" />
+        <option name="BACKGROUND" value="3b3d38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="212d2d" />
+        <option name="BACKGROUND" value="403a36" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="403534" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="403032" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
