@@ -14,5 +14,6 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>

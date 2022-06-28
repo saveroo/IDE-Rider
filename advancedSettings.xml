@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="localHistory.daysToKeep" value="20" />
+        <entry key="se.text.search" value="true" />
       </map>
     </option>
   </component>
