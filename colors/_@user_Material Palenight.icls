@@ -4,19 +4,12 @@
     <property name="created">2022-03-13T14:45:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-13T14:52:41</property>
+    <property name="modified">2022-07-08T14:57:42</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -25,6 +18,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -1467,7 +1461,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1475,9 +1468,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2846,10 +2837,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444267" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
